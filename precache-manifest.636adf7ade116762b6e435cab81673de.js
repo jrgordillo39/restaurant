@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "226877b57f0fea1fcc71",
-    "url": "/restaurant/css/app.7867ce17.css"
+    "revision": "952e35b77927e34e2be2",
+    "url": "/restaurant/css/app.1b7b9c5f.css"
   },
   {
     "revision": "faf278a47c3cc39cff39",
@@ -204,12 +204,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/restaurant/img/sunshine.jpg"
   },
   {
-    "revision": "a3f5d9c6623a68363337e6cdc6f2777c",
+    "revision": "1a6b78cdd35adbd65328ab3772371d61",
     "url": "/restaurant/index.html"
   },
   {
-    "revision": "226877b57f0fea1fcc71",
-    "url": "/restaurant/js/app.4472494a.js"
+    "revision": "952e35b77927e34e2be2",
+    "url": "/restaurant/js/app.7d3e7e88.js"
   },
   {
     "revision": "faf278a47c3cc39cff39",
