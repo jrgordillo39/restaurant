@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "./precache-manifest.636adf7ade116762b6e435cab81673de.js"
+  "./precache-manifest.6e6b608a309dbc7ed939acc665d1dc7f.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "Cubamax-Restaurant"});
+workbox.core.setCacheNameDetails({prefix: "Cubamax"});
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {
