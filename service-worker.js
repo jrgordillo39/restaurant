@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "./precache-manifest.e4dacae33787dfa88ca43cb6856fd8ec.js"
+  "./precache-manifest.6427c4f6809f36ee2679f884a4caa32f.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "Cubamax-Restaurant"});
